@@ -57,3 +57,15 @@ h1 {
     border-radius: 20px;
 
 }
+
+.btn-twitter {
+  background-color: #d12424;
+}
+
+.btn-facebook {
+  background-color: #a72302;
+}
+
+.btn-gmail {
+  background-color: #c5511b;
+}
