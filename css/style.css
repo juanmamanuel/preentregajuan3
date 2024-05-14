@@ -50,11 +50,11 @@ h1 {
 }
 
 .header{
-    display: flex;
+  display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background-color: red;
-    border-radius: 20px;
+  background-color: rgb(141, 136, 136);
+  border-radius: 20px;
 
 }
 
@@ -68,4 +68,9 @@ h1 {
 
 .btn-gmail {
   background-color: #c5511b;
+}
+
+.header img{
+  align-items: center;
+  justify-content: center;
 }
