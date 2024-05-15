@@ -1,5 +1,6 @@
 h1 {
     color: rgb(239, 236, 241);
+    border-radius: 20px;
     background-color: red;
     text-align: center;
     font-family: fuente-titulo;
@@ -10,6 +11,11 @@ h1 {
     top: 0;
     width: 100%;
   }
+
+h2{
+  color: #d12424;
+  text-align: center;
+}
 
 .text-center, .main-index h1 {
     text-align: center;
@@ -59,18 +65,16 @@ h1 {
 }
 
 .btn-twitter {
+  border-radius: 20px;
   background-color: #d12424;
 }
 
 .btn-facebook {
+  border-radius: 20px;
   background-color: #a72302;
 }
 
 .btn-gmail {
+  border-radius: 20px;
   background-color: #c5511b;
-}
-
-.header img{
-  align-items: center;
-  justify-content: center;
 }
